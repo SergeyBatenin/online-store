@@ -112,6 +112,10 @@ nav {
 	color: #ffffff;
 }
 
+.main_category:hover {
+	cursor: pointer;
+}
+
 .main_category p {
 	text-align: center;
 }
